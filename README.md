@@ -4,7 +4,11 @@
 > Minimalist design principles, typography, palette & UI recipes for indie builders.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/clean-ui?style=social)](https://github.com/realchendahuang/clean-ui)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/clean-ui?style=social)](https://github.com/realchendahuang/clean-ui/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/clean-ui)](https://github.com/realchendahuang/clean-ui/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/clean-ui/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
